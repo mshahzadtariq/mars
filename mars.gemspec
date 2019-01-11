@@ -7,7 +7,7 @@ Gem::Specification.new 'mars', version do |s|
   s.email             = "m.shahzad.tariq@hotmail.com"
   s.homepage          = "http://github.com/mshahzadtariq"
   s.license           = 'MIT'
-  s.files             = Dir['README*.md', 'lib/**/*', 'examples/*'] + [
+  s.files             = Dir['README*.md', 'lib/**/*'] + [
     "Gemfile",
     "Rakefile",
     "mars.gemspec",

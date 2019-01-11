@@ -1,3 +1,4 @@
+require 'erb'
 
 class Application
   def call(env)
