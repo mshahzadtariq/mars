@@ -15,7 +15,7 @@ gem 'wlang', '>= 2.0.1'
 gem 'bluecloth'
 gem 'rdiscount'
 gem 'RedCloth'
-gem "activesupport", "~> 5.1.6"
+#gem "activesupport", "~> 5.1.6"
 gem 'puma'
 gem 'yajl-ruby'
 gem 'nokogiri'
